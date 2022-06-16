@@ -1,2 +1,2 @@
 # ff-stats
-file and folder indexer and statistics
+file and folder statistics
